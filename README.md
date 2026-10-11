@@ -1,51 +1,171 @@
-# repo
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=220&section=header&text=Hi%20There!%20👋%20I'm%20Iftikhar%20Hassan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BS%20Computer%20Science%20Student%20|%20Software%20Developer%20|%20AI%20Enthusiast&descSize=16&descAlignY=62" width="100%" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
-# Hi, I'm Iftikhar Hassan 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Riphah+International+University;Full-Stack+Web+Developer+%7C+ASP.NET+Core+%26+C%23;Building+Scalable+Software+Solutions;Exploring+AI%2C+Machine+Learning+%26+Agentic+AI)](https://git.io/typing-svg)
 
-### Aspiring .NET Developer | Computer Science Student
-
-I'm a Computer Science student passionate about software development and building web applications using modern technologies. I'm currently focusing on C#, ASP.NET Core, and database development while improving my problem-solving and software engineering skills.
-
-## 🚀 Technical Skills
-
-- **Languages:** C#, C++, JavaScript, PHP, Python
-- **Backend Development:** ASP.NET Core MVC, ASP.NET Core Web API
-- **Database:** Microsoft SQL Server, SQL
-- **ORM:** Entity Framework Core
-- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
-- **Tools:** Visual Studio, VS Code, Git, GitHub
-
-## 💻 Projects
-
-### Employee Management System
-- Building an employee management application using ASP.NET Core MVC.
-- Working with Entity Framework Core and Microsoft SQL Server.
-- Practicing CRUD operations and database migrations.
-- Developing skills in backend logic and database management.
-
-## 📚 Currently Learning
-
-- Advanced C# and Object-Oriented Programming
-- ASP.NET Core MVC and Web API
-- SQL Server and database design
-- Dependency Injection and software architecture
-- Authentication, authorization, and application security
-
-## 🎯 Career Goal
-
-My goal is to become a skilled .NET Developer by building practical projects, writing clean and maintainable code, and continuously improving my software engineering skills.
-
-## 🤝 Connect With Me
-
-- **GitHub:** [Iftikhar Hassan](https://github.com/YOUR-USERNAME)
+</div>
 
 ---
 
-⭐ *Always learning, building, and improving.*
+### 👨‍💻 About Me
 
-Aspiring .NET Developer | C# | ASP.NET Core | SQL Server | Python | AI/ML | Machine Learning | Java | Flutter | Android Development | Figma UI/UX | Unity Game Development | C & C# | Passionate about Software Engineering, AI, and Game Development.
+- 🎓 I am a **BS Computer Science** student in my **3rd semester** at **Riphah International University**.
+- 💻 Passionate about full-stack development, software engineering, and database design.
+- 🤖 Exploring **AI/ML**, Deep Learning, Neural Networks, Natural Language Processing, Computer Vision, and **Agentic AI**.
+- 🎮 Game development enthusiast with experience in **Unity**, **C#**, and **Java**.
+- 🌱 Continuously improving my problem-solving and software development skills through hands-on projects.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Programming Languages
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2++&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+---
+
+### 🌐 Frontend Development
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React (Exploring)" />
+</div>
+
+---
+
+### ⚙️ Backend Development
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</div>
+
+---
+
+### 🗄️ Databases & Database Management Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server_2022-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="RDBMS" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Database Management Tool" />
+  <img src="https://img.shields.io/badge/T--SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Querying" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ORM" />
+</div>
+
+---
+
+### 🧩 Frameworks & Libraries
+
+- **Frontend:** Bootstrap, React *(Exploring)*
+- **Backend Frameworks:** ASP.NET Core, ASP.NET Core MVC, ASP.NET Core Web API
+- **AI/ML & Data Science:** NumPy, Pandas, Scikit-learn, OpenCV
+- **Deep Learning:** Neural Networks & Applied Concepts
+
+---
+
+### 🤖 AI / Machine Learning
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural_Networks-005571?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic AI (Exploring)" />
+</div>
+
+---
+
+### 🎮 Game Development
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+---
+
+### 🧰 Tools & Platforms
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 Makarim Academy Student Management System</h3>
+      <p>A multi-portal school and student management application designed to handle administrative, academic, and financial workflows.</p>
+      <p><b>Tech Stack:</b> ASP.NET Core MVC, C#, Entity Framework Core, MS SQL Server 2022</p>
+      <p>
+        <a href="YOUR-REPOSITORY-URL-HERE">🔗 GitHub Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Employee Management System</h3>
+      <p>A comprehensive system for managing employee records, departments, organizational profiles, and tracking database entries.</p>
+      <p><b>Tech Stack:</b> ASP.NET Core MVC, C#, Entity Framework Core, MS SQL Server 2022</p>
+      <p>
+        <a href="YOUR-REPOSITORY-URL-HERE">🔗 GitHub Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Machine Learning Exploration</h3>
+      <p>A repository containing applied experiments in machine learning, computer vision, data analysis using Pandas/NumPy, and neural network concepts.</p>
+      <p><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, Pandas, NumPy</p>
+      <p>
+        <a href="YOUR-REPOSITORY-URL-HERE">🔗 GitHub Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Unity Game Development Projects</h3>
+      <p>A collection of game development learning projects, mechanics prototypes, and interactive experiences built using Unity and C#.</p>
+      <p><b>Tech Stack:</b> Unity, C#, Java</p>
+      <p>
+        <a href="YOUR-REPOSITORY-URL-HERE">🔗 GitHub Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
